@@ -1,0 +1,8 @@
+C:\Users\Yapur\OneDrive\Escritorio\RosarioYapuraTP1\IFSIMPLE\IFSIMPLE\bin\Debug\IFSIMPLE.exe.config
+C:\Users\Yapur\OneDrive\Escritorio\RosarioYapuraTP1\IFSIMPLE\IFSIMPLE\bin\Debug\IFSIMPLE.exe
+C:\Users\Yapur\OneDrive\Escritorio\RosarioYapuraTP1\IFSIMPLE\IFSIMPLE\bin\Debug\IFSIMPLE.pdb
+C:\Users\Yapur\OneDrive\Escritorio\RosarioYapuraTP1\IFSIMPLE\IFSIMPLE\obj\Debug\IFSIMPLE.csproj.AssemblyReference.cache
+C:\Users\Yapur\OneDrive\Escritorio\RosarioYapuraTP1\IFSIMPLE\IFSIMPLE\obj\Debug\IFSIMPLE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yapur\OneDrive\Escritorio\RosarioYapuraTP1\IFSIMPLE\IFSIMPLE\obj\Debug\IFSIMPLE.csproj.CoreCompileInputs.cache
+C:\Users\Yapur\OneDrive\Escritorio\RosarioYapuraTP1\IFSIMPLE\IFSIMPLE\obj\Debug\IFSIMPLE.exe
+C:\Users\Yapur\OneDrive\Escritorio\RosarioYapuraTP1\IFSIMPLE\IFSIMPLE\obj\Debug\IFSIMPLE.pdb
